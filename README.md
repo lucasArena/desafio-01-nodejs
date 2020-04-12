@@ -48,11 +48,5 @@ $ cd nodejs
 $ yarn install
 ```
 
-## :memo: Contributor
+## :memo: License
 Made with ♥ by Lucas Arena :wave: [Get in touch!](https://www.linkedin.com/in/lucas-arena-771959136/)
-
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
