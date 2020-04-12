@@ -1,26 +1,17 @@
 <h1 align="center">
-    <img alt="Design+Code" src="https://https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+    <img alt="Design+Code" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
     <br>
     Node JS - Rocketseat
 </h1>
 
 <h4 align="center">
-  Animations and Gestures Manipulation Heavy React Native App
+  Node's challengue from Rocketseat bootcampo 11.0 - Fase 01
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/react-native-design-code.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/react-native-design-code.svg">
-
-  <a href="https://www.codacy.com/app/lukemorales/react-native-design-code?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/react-native-design-code&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/04db4b43120b4d05b9b39c9d2da97300.svg">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/react-native-design-code.svg">
-  <a href="https://github.com/lukemorales/react-native-design-code/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/react-native-design-code.svg">
-  </a>
-
+  
   <a href="https://github.com/lukemorales/react-native-design-code/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/react-native-design-code.svg">
   </a>
@@ -53,6 +44,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 ```bash
 # Clone this repository
 $ git clone https://github.com/lucasArena/nodejs nodejs
+```
 
 # Go into the repository
 $ cd nodejs
