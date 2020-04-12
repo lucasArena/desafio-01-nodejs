@@ -30,7 +30,6 @@
 This project was developed with the following technologies:
 
 -  [NodeJS](https://facebook.github.io/react-native/)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
 
