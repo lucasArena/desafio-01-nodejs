@@ -39,13 +39,14 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 ```bash
 # Clone this repository
 $ git clone https://github.com/lucasArena/nodejs nodejs
-```
+
 
 # Go into the repository
 $ cd nodejs
 
 # Install dependencies
 $ yarn install
+```
 
 ## :memo: Contributor
 Made with ♥ by Lucas Arena :wave: [Get in touch!](https://www.linkedin.com/in/lucas-arena-771959136/)
