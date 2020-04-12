@@ -47,6 +47,7 @@ $ cd nodejs
 # Install dependencies
 $ yarn install
 
+# :memo: Contributor
 Made with ♥ by Lucas Arena :wave: [Get in touch!](https://www.linkedin.com/in/lucas-arena-771959136/)
 
 [nodejs]: https://nodejs.org/
